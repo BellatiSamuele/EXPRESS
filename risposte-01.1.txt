@@ -1,0 +1,6 @@
+1) A cosa serve il metodo sendFile(nomefile) del parametro res della funzione get?
+
+2) E’ possibile passare ad Express un percorso relativo di un file statico?
+
+3) A cosa serve specificare un valore nel primo parametro del metodo get della libreria express?
+
